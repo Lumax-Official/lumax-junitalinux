@@ -1,7 +1,7 @@
 ![alt text](https://vectr.com/gary_uwu/b2K0MUG2ZU.png?width=447.7&height=96.36&select=fFVlrD4Eq,b1GpdLDr62,acLmi0UyC,bfQeq0AS9,bboBmp9BJ,j37nqilXSl,b2GisM3yT,e4t6Ninn4Y,a4Ki4MauRc&source=selection)
 
 ![alt text](https://img.shields.io/github/license/Lumax-Official/lumax-junitalinux)
-
+![alt text](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FLumax-Official%2Flumax-junitalinux%2F)
 ![alt text](https://img.shields.io/github/issues/Lumax-Official/lumax-junitalinux)
 
 # About Junitalinux
